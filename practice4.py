@@ -18,6 +18,10 @@ def main():
     print (st)
 
     # conditional statements let you use "a if C else b"
+    st = "x is less than y " if (x <y) else "x is greater than or the same as y"
+    
+print (st)
+
 
 if __name__ == "__main__":
     main()
