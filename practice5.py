@@ -26,3 +26,6 @@
 
 
     # use the break and continue statements
+    for x in range(5,10):
+        if (x == 7): break 
+        print (x)
