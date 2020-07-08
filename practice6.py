@@ -26,6 +26,7 @@ def main():
 
     c2= anotherClass()
     c2.method1()
+    c2.method2("this is a string")
 
 
 
