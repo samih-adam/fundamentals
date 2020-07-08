@@ -5,6 +5,23 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/app.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "pwa-node"
+        },
+    
+    code
+        {
+            "name": "Python: Module",
+            "type": "python",
+            "request": "launch",
+            "module": "python"
+        },
+        {
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
