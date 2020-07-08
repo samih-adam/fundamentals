@@ -4,17 +4,17 @@
 # Example file for working with loops
 #
 
-def main():
-    x = 0
+# def main():
+#     x = 0
 
-    # define a while loop
+#     # define a while loop
 
-    # while(x<5):
-    #     print(x)
-    #     x = x + 1
+#     # while(x<5):
+#     #     print(x)
+#     #     x = x + 1
     
-    for x in range (5, 10):
-        print(x)
+#     for x in range (5, 10):
+#         print(x)
 
 
     # define a for loop
